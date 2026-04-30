@@ -1,0 +1,13 @@
+name = "Rechiseled: Applied Energistics 2"
+filename = "rechiseledae-1.0.0-neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac8ab5abd364ef98a5f768e4164c6efe54d95f26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7745420
+project-id = 1483822

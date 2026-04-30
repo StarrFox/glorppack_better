@@ -1,0 +1,13 @@
+name = "Glorppack"
+author = "Starr"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "78097b4188c7e254891d332beb65f39898ef3fe4fa2bbc4cc7981a4ac25b57c3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"

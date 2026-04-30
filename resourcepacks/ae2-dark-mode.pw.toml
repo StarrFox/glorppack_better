@@ -1,0 +1,13 @@
+name = "AE2 Dark Mode"
+filename = "AE2DarkMode-V1.0.6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74d0a02d0b0a59ef34c37ecca6bec25dcae98cc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5520011
+project-id = 1038055
