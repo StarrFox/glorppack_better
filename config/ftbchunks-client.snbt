@@ -139,18 +139,18 @@
 		entity_heads: true
 		entity_icon: {
 			"ars_elemental:flashjack_entity": true
-			"minecraft:glow_squid": true
-			"minecraft:cow": true
-			"minecraft:axolotl": true
-			"minecraft:pig": true
 			"minecraft:tropical_fish": false
-			"minecraft:wolf": true
-			"ars_nouveau:whirlisprig": true
-			"minecraft:sheep": true
-			"minecraft:bat": true
-			"minecraft:chicken": true
-			"minecraft:bee": true
+			"minecraft:cow": true
+			"minecraft:glow_squid": true
 			"minecraft:parrot": true
+			"minecraft:sheep": true
+			"minecraft:wolf": true
+			"minecraft:axolotl": true
+			"ars_nouveau:whirlisprig": true
+			"minecraft:pig": true
+			"minecraft:bat": true
+			"minecraft:bee": true
+			"minecraft:chicken": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
