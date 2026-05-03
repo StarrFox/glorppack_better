@@ -9,10 +9,6 @@ file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
-file = "config/EnderStorage.cfg"
-hash = "50f8a5bee199a9f544ad1c87441e424ad768195b3fa95eb1d8372de18c7da346"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1197,14 +1193,6 @@ file = "config/ccl.cfg"
 hash = "d0accd9879a8d31db8bdb55163dbb1b1668890a4558ac0689f807c6e207d1d99"
 
 [[files]]
-file = "config/chunky/config.json"
-hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
-
-[[files]]
-file = "config/chunky/tasks/minecraft/overworld.properties"
-hash = "7f9f0cc6a74f88639971d92cfe9c80fe2f61d2bae9d064ddd21c13c8435da7fc"
-
-[[files]]
 file = "config/comforts-common.toml"
 hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
 
@@ -1229,16 +1217,8 @@ file = "config/copycats-server.toml"
 hash = "dac18a20718319d6556a7b2709d8f7a64b5da718d2b05ab9d32604087860322a"
 
 [[files]]
-file = "config/create-client.toml"
-hash = "16774bad3d5684a5ecfb6e9e9a8ca5c158fbc8bb3c97568af830be925e6d3d2a"
-
-[[files]]
-file = "config/create-common.toml"
-hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
-
-[[files]]
 file = "config/create-server.toml"
-hash = "f1a3edd31cdcf2b602b7d51d1fe8ba5e88d6403580ba382ba4cbfab1ecb3a365"
+hash = "4521ee649afbb1d8c52daf437f5006a1b82c4fdadbec3bc7865bba8a8d64bcd2"
 
 [[files]]
 file = "config/create_better_villagers/common.json5"
@@ -1309,10 +1289,6 @@ file = "config/createcobblestone-common.toml"
 hash = "0de1c99021330f507e93300260a6f710c526b5e20e2051fb166dbbb73c4f5280"
 
 [[files]]
-file = "config/createlazytick-client.toml"
-hash = "f9ff8abdc007d16f2331f9923f512d11fc0f6a7e9de9bbe7981d5d706a27c36c"
-
-[[files]]
 file = "config/createlazytick-server.toml"
 hash = "96e8b19fd33dd9ff6a789653e623cb36167e4e5c4c426f71ccfc547cc63270d5"
 
@@ -1323,14 +1299,6 @@ hash = "ec4f6c56676a2dff6c730cc6d9f5c41711c470d6edb04bfd69e5f1c6980c2224"
 [[files]]
 file = "config/createrailwaysnavigator-common.toml"
 hash = "7894938f711268271e05142ec13e793129ba0c7d2909644e830168767c4aae44"
-
-[[files]]
-file = "config/curios-client.toml"
-hash = "f1e31eed2ff11e1c6eda6517dc8b24dabd5b752ba1f8a3503c5ce750af1fc7b4"
-
-[[files]]
-file = "config/curios-common.toml"
-hash = "16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674"
 
 [[files]]
 file = "config/curios-server.toml"
@@ -2053,11 +2021,6 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
-file = "mods/codechicken-lib-1-8.pw.toml"
-hash = "2bbc57f2edb0c4045b2b46f0126e109d9a8cf72153cd7084cb78f6e3311adb38"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
@@ -2178,13 +2141,18 @@ hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
 metafile = true
 
 [[files]]
+file = "mods/dimstorage.pw.toml"
+hash = "ad2c128bd12be36dad8cde2bed5c7166979bf0552e4001d12ca2b7b6361ba07b"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "4de7d127bbdeb77955a8c27302babdacc268a477aa2c8c63f121e11b0b5c6078"
 metafile = true
 
 [[files]]
 file = "mods/edivadlib.pw.toml"
-hash = "e2271f01117b2e3469832199b0830aacd678be821b4a4121fadd1805e0256195"
+hash = "e2ee2481b63a012bdfb8c9f588788dd2f116ff48298014bb3e00d08a224fe14f"
 metafile = true
 
 [[files]]
@@ -2225,11 +2193,6 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
-metafile = true
-
-[[files]]
-file = "mods/ender-storage-1-8.pw.toml"
-hash = "b4085a5772cddefe655155a25d0d24d2f8f34017c61d9cd786d7a9868abf9092"
 metafile = true
 
 [[files]]
