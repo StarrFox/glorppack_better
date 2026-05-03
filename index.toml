@@ -1670,7 +1670,7 @@ hash = "bcf86f1ca7b5747d42e7b62fda48f558ef28a2795d6b409d5489285846ec8780"
 
 [[files]]
 file = "config/solcarrot-server.toml"
-hash = "65e20be76c99ce17b9b8dc6b0d1dd9e4e4db1ad3fbe05cc9ba1ca0db6d18bfcd"
+hash = "f5eeef3a21440a08d292691eeef7ca3c3d32946b666ff831b191316c5de70992"
 
 [[files]]
 file = "config/someassemblyrequired-client.toml"
