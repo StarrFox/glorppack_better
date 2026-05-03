@@ -1778,7 +1778,7 @@ hash = "20b5246b5932c3c77a6a19b832acc01aa335e61ac82795edd9ac001e61fc8ba8"
 
 [[files]]
 file = "config/voxy-config.json"
-hash = "2a55c99982e61d56eef81cecd9254a0d444c9b2f55ac3420951e0c7909a5c580"
+hash = "93e80583f2db5d2970187a664c03ff9bda77dd836309b470ad0eb4687af3b0dc"
 
 [[files]]
 file = "config/watut-client.toml"
