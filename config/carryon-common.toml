@@ -7,11 +7,11 @@
 	#Max width of entities that can be picked up in survival mode
 	# Default: 1.5
 	# Range: 0.0 ~ 10.0
-	maxEntityWidth = 1.5
+	maxEntityWidth = 0
 	#Max height of entities that can be picked up in survival mode
 	# Default: 2.5
 	# Range: 0.0 ~ 10.0
-	maxEntityHeight = 2.5
+	maxEntityHeight = 0
 	#Slowness multiplier for blocks
 	# Default: 1.0
 	# Range: 0.0 ~ 1.7976931348623157E308
