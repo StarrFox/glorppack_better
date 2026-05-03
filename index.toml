@@ -2874,10 +2874,10 @@ hash = "492191aed8641f1bdd110d90e156d7a8a6e7f86b5d7d203aeb6fbdc157f22847"
 
 [[files]]
 file = "resourcepacks/ae2-dark-mode.pw.toml"
-hash = "bc05a4a2658f3f17dbf126ef295504245e82cfa6a9c53e3af89d33c1373350e1"
+hash = "5b3e325c77e20f296534af3a5b2d43bdbc85c0a87d4551ae3de4e10b54cf2939"
 metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "dd071d75436785eb106e2c0d75326b5c360a545a6f57cbd9e36b23c6c62fbcf8"
+hash = "be6e51d54a596082f0a6c07fe552115c45c5dd2abb49860d51d4219a7b582336"
 metafile = true
