@@ -1,6 +1,6 @@
 name = "Unique Dark"
 filename = "Unique Dark - Lite - 1.20.2-26.x.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

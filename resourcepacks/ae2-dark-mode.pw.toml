@@ -1,6 +1,6 @@
 name = "AE2 Dark Mode"
 filename = "AE2DarkMode-V1.0.6.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
