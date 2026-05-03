@@ -25,6 +25,10 @@ file = "config/ftbchunks-world.snbt"
 hash = "2f380b854386903509581df1d5272eb46402d125dea9616bef2c3bc5e04997e0"
 
 [[files]]
+file = "config/ftbultimine-server.snbt"
+hash = "95c29c94feaf32f38a9364eff6173fecb9d21919762057f69957d79f658952d7"
+
+[[files]]
 file = "config/reap-server.toml"
 hash = "5c28dd81d92ecf79b4c08aeaac815dad6651aab2d4b4f4556488fd7ceff66fce"
 
@@ -286,6 +290,11 @@ hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
@@ -463,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "e5c471aaab9047178ad25e91d28240fefd7b6e48d52af4274bc53239eb1da8c6"
 metafile = true
 
 [[files]]
@@ -741,6 +755,11 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "7a8880ea7dc331692ce1210d300bd156427d4b88f11a49766120992f8edf5f75"
+metafile = true
+
+[[files]]
 file = "mods/reap-mod.pw.toml"
 hash = "4fb8d1b5b8ffebcb71908b530daf99b0c33a3c2ad54dcf44524338e15c33ec60"
 metafile = true
@@ -907,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
