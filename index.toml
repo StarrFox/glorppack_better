@@ -980,3 +980,7 @@ metafile = true
 file = "resourcepacks/unique-dark.pw.toml"
 hash = "be6e51d54a596082f0a6c07fe552115c45c5dd2abb49860d51d4219a7b582336"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "d39f1f9caa88bee9ed4a4dfc022ae3d054f5aa25c7eca19cb4d2e730f94bcc3a"
