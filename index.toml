@@ -1873,190 +1873,6 @@ file = "config/youkaisfeasts-server.toml"
 hash = "5d4173bcfb03bf18088e7e983ecdfefe0636621aa7f1bac95d2571dcd2fbf8db"
 
 [[files]]
-file = "mods/.connector/patch_audit.txt"
-hash = "894031c9414569a71d4b44ca525c654d5d07f848afad79c2a3a57cbb025421e4"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$commons-pool2-2.12.0.jar"
-hash = "20d4f943a6d018b0e3c62ede84ce89a785e34ceb5d0155789c3e61f6e78a2c8d"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$commons-pool2-2.12.0.jar.input"
-hash = "928b6e775793806d16300d36d888db8a37b18ebacee17c149437964fa80170ab"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$jedis-5.1.0.jar"
-hash = "677988068e3b1f0ace8e47bd4478f1d2b3140f93d7fa18087fdc56e9ddcf60a4"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$jedis-5.1.0.jar.input"
-hash = "c5be84b522d89c9b56ddb069081212d146fab6c637a2995b19e6e70e213b03b8"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3-natives-linux.jar"
-hash = "3aac70a9d156e6dbd0742182c3f134de3477118c31228ceac78bd8fd668e4be9"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3-natives-linux.jar.input"
-hash = "449f64d344163e32af25b1769a7c2678b21455e5cba7d6b692cbd2d2d9f2f9f1"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3-natives-windows.jar"
-hash = "0090f59f870684956289db03a2a3e23a3e7c1003bb53692f102eff0f4cbcefc7"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3-natives-windows.jar.input"
-hash = "6819eb1f91ae6c8162a3a5801195967f93d01e80f7e0a98d756c989d70fbebd1"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3.jar"
-hash = "29bc92195ebe50a679550e4af466882d50e8204a93378e52b3f1b9c2e31ad1b2"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3.jar.input"
-hash = "6949aa0f08757feff23889fd341212eb3c328b0457af3f613fbff98adb0da5fe"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3-natives-linux.jar"
-hash = "f98e1869794176b6191abd0d54a7ac80213d255bb4d42d67784d8f1c157033bd"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3-natives-linux.jar.input"
-hash = "d6413f78b7fdd56c943aa9ce103e37ee28f4548825552c3d2e41e7a7bf8464fe"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3-natives-windows.jar"
-hash = "58bd6e35a553dad97d603338528213f7f9ba1173935514be7930c881d9010080"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3-natives-windows.jar.input"
-hash = "7b5c06f64ebb2dc5083127961f2487a0469acb5ef777c314d307e413e591e223"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3.jar"
-hash = "7f77702b7b4f689ed07e5a193e271b27ce085134d53998ae61842fe13c39216b"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3.jar.input"
-hash = "521be3608c909d298c9dae3208663055dfb761b1700d9ea67654d8994c010b78"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lz4-java-1.8.0.jar"
-hash = "dd8b02512af33c0cf684f9b97fd5b893cd68739ce0fa7d231418df4198abab72"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$lz4-java-1.8.0.jar.input"
-hash = "bc7c97167231d603c64c52d74ffef0ac0147f50b777260674af449351cc54285"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$rocksdbjni-10.2.1.jar"
-hash = "31d376b19babccbdaa909e2b6cb463da9c62072239d3d9153e7f018a1424e44e"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$rocksdbjni-10.2.1.jar.input"
-hash = "0ebbe6f4b4994d42296324f63c1f78330b8d90254021e4c7915f0442c4815c05"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$xz-1.10.jar"
-hash = "12b4b007e6ea54692fa986f242be7f7085a34a4b7c68d3b29071ca3ed2e84469"
-
-[[files]]
-file = "mods/.connector/temp/voxy-0.2.14-alpha-e88e3665$xz-1.10.jar.input"
-hash = "a582e796b67f34f47fecafc0594c1312b5b7c90d27e619ccba60ddc7d3b68ff7"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$commons-pool2-2.12.0_mapped_moj_1.21.1.jar"
-hash = "20d4f943a6d018b0e3c62ede84ce89a785e34ceb5d0155789c3e61f6e78a2c8d"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$commons-pool2-2.12.0_mapped_moj_1.21.1.jar.input"
-hash = "928b6e775793806d16300d36d888db8a37b18ebacee17c149437964fa80170ab"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$jedis-5.1.0_mapped_moj_1.21.1.jar"
-hash = "677988068e3b1f0ace8e47bd4478f1d2b3140f93d7fa18087fdc56e9ddcf60a4"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$jedis-5.1.0_mapped_moj_1.21.1.jar.input"
-hash = "c5be84b522d89c9b56ddb069081212d146fab6c637a2995b19e6e70e213b03b8"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3-natives-linux_mapped_moj_1.21.1.jar"
-hash = "3aac70a9d156e6dbd0742182c3f134de3477118c31228ceac78bd8fd668e4be9"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3-natives-linux_mapped_moj_1.21.1.jar.input"
-hash = "449f64d344163e32af25b1769a7c2678b21455e5cba7d6b692cbd2d2d9f2f9f1"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3-natives-windows_mapped_moj_1.21.1.jar"
-hash = "0090f59f870684956289db03a2a3e23a3e7c1003bb53692f102eff0f4cbcefc7"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3-natives-windows_mapped_moj_1.21.1.jar.input"
-hash = "6819eb1f91ae6c8162a3a5801195967f93d01e80f7e0a98d756c989d70fbebd1"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3_mapped_moj_1.21.1.jar"
-hash = "29bc92195ebe50a679550e4af466882d50e8204a93378e52b3f1b9c2e31ad1b2"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-lmdb-3.3.3_mapped_moj_1.21.1.jar.input"
-hash = "6949aa0f08757feff23889fd341212eb3c328b0457af3f613fbff98adb0da5fe"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3-natives-linux_mapped_moj_1.21.1.jar"
-hash = "f98e1869794176b6191abd0d54a7ac80213d255bb4d42d67784d8f1c157033bd"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3-natives-linux_mapped_moj_1.21.1.jar.input"
-hash = "d6413f78b7fdd56c943aa9ce103e37ee28f4548825552c3d2e41e7a7bf8464fe"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3-natives-windows_mapped_moj_1.21.1.jar"
-hash = "58bd6e35a553dad97d603338528213f7f9ba1173935514be7930c881d9010080"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3-natives-windows_mapped_moj_1.21.1.jar.input"
-hash = "7b5c06f64ebb2dc5083127961f2487a0469acb5ef777c314d307e413e591e223"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3_mapped_moj_1.21.1.jar"
-hash = "7f77702b7b4f689ed07e5a193e271b27ce085134d53998ae61842fe13c39216b"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$lwjgl-zstd-3.3.3_mapped_moj_1.21.1.jar.input"
-hash = "521be3608c909d298c9dae3208663055dfb761b1700d9ea67654d8994c010b78"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$rocksdbjni-10.2.1_mapped_moj_1.21.1.jar"
-hash = "31d376b19babccbdaa909e2b6cb463da9c62072239d3d9153e7f018a1424e44e"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$rocksdbjni-10.2.1_mapped_moj_1.21.1.jar.input"
-hash = "0ebbe6f4b4994d42296324f63c1f78330b8d90254021e4c7915f0442c4815c05"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$xz-1.10_mapped_moj_1.21.1.jar"
-hash = "12b4b007e6ea54692fa986f242be7f7085a34a4b7c68d3b29071ca3ed2e84469"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665$xz-1.10_mapped_moj_1.21.1.jar.input"
-hash = "a582e796b67f34f47fecafc0594c1312b5b7c90d27e619ccba60ddc7d3b68ff7"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665_mapped_moj_1.21.1.jar"
-hash = "18cd85bb3a8f965866a4908b48d1c279aa3787a8e9f4f59d64b9fa2aa912a5ca"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-e88e3665_mapped_moj_1.21.1.jar.input"
-hash = "c5e3efc3c0b306c74241ea9bacf505da0afa62144d6208338df410062d45e89f"
-
-[[files]]
-file = "mods/EMIProfessions-neoforge-1.21.1-1.0.3.jar"
-hash = "69e11dce3193422e0b6edb27d7d50d36e30bec3e85e1a515bf81ca0d69baa44e"
-
-[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
 metafile = true
@@ -2082,12 +1898,14 @@ hash = "90cf6e0de096a6d7b3a961559dd40bb8f8c60c654bf79ccdf38e16641978e9c1"
 metafile = true
 
 [[files]]
-file = "mods/aetherial-islands-2.0.2.jar"
-hash = "6c1bc752b632f233b28cfd5137da2e6fb1d56fb308c8f760bc321b37038bc26f"
+file = "mods/aetherial-islands-clusters-edit.pw.toml"
+hash = "b2030453706ee13569c39399e8475ef468d695cbd7a636c4ebb923f13b274612"
+metafile = true
 
 [[files]]
-file = "mods/aetherial-islands-clusters-edit-1.2.1.jar"
-hash = "9a3e6152a3e575aaa845a4a6be9517cb83e335ef1c414c9581aa22e8bbb84d85"
+file = "mods/aetherial-islands.pw.toml"
+hash = "07735cfeaea8f9d4532a6ca653fa3b4fc83ed2d7f16fff96ac2741a8c37f12a8"
+metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
@@ -2140,6 +1958,11 @@ hash = "eebf84745a8afb37ef161b28f5ebf4c404130343b5dbeef3015aa50d0e0dd061"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "35b47f710318d5735832732b27cded39e3a0714913f7929baecfed23598680f5"
+metafile = true
+
+[[files]]
 file = "mods/ars-elemancy.pw.toml"
 hash = "f3df2649987700fe0ec3693e69dd6b4db40553f73a0d07f8a21c87db709ac1db"
 metafile = true
@@ -2175,10 +1998,6 @@ hash = "1efcd69ae7422468b9cd3683db7a1f16547331fd8ee473f61dfd275276621934"
 metafile = true
 
 [[files]]
-file = "mods/ars_creo-1.21.1-5.2.0.jar"
-hash = "fe39f46c86946a5be2b1f4b6034ece3ec87eecb8f7ca26b848e4e3bae446c6b2"
-
-[[files]]
 file = "mods/athena.pw.toml"
 hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
@@ -2189,8 +2008,9 @@ hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
 metafile = true
 
 [[files]]
-file = "mods/balm-neoforge-1.21.1-21.0.57.jar"
-hash = "ab56a4edaaf7366e6aa5a7446cf4f0d939e844ab0fb0df9b27967916bff0425a"
+file = "mods/balm.pw.toml"
+hash = "9121b274bd87552ae976983d9bdd56061274c126a4a1b7b2e13605b1a1ec0599"
+metafile = true
 
 [[files]]
 file = "mods/better-library.pw.toml"
@@ -2243,8 +2063,9 @@ hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
 
 [[files]]
-file = "mods/connector-2.0.0-beta.14+1.21.1-full.jar"
-hash = "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b"
+file = "mods/connector.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -2274,6 +2095,11 @@ metafile = true
 [[files]]
 file = "mods/create-cobblestone.pw.toml"
 hash = "8dfe72b3ce05a8e6a13f499b432ab0073e0f1a153273ea0291dcfe646814eff9"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "31508c7c87c75cec7ae03cfe2367b6e4ea37035400c2594c93c1e9c60cf64b3f"
 metafile = true
 
 [[files]]
@@ -2322,6 +2148,11 @@ hash = "933542ef6b68b15a91e20f9d87cb1f03546d0081b12c2e489df860fd47b3be28"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "5a5c12ae10b1bca3a6b51a4b56645cb5bdacb35b1d9c49bc79517a660c0cd51b"
 metafile = true
@@ -2335,14 +2166,6 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
-
-[[files]]
-file = "mods/create_connected-1.1.13-mc1.21.1.jar"
-hash = "f78002d3f41c30bc478b6e47028f02a20a24fd74ff8c8c22013b83b01fb4b83d"
-
-[[files]]
-file = "mods/create_power_loader-2.0.4-mc1.21.1.jar"
-hash = "11867759a246759f236a07e736b85b05f509d2bd173b56a415becc3cc0901bee"
 
 [[files]]
 file = "mods/curios.pw.toml"
@@ -2390,13 +2213,19 @@ hash = "a085e38f78e9625c9b0db1d962542b5081ed0f4fd00de87a3baf1a08958310e2"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
+file = "mods/emi-professions-(emip).pw.toml"
+hash = "0477d572817d9de3a5569109a8d07a2e519af9ccf0e8236cae621369afbc6e4c"
 metafile = true
 
 [[files]]
-file = "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar"
-hash = "38fd4cb9ae7eee090f352c92b09dc54eb873363523d11b2354157d3214546816"
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
+metafile = true
 
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
@@ -2430,7 +2259,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
+hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
 metafile = true
 
 [[files]]
@@ -2439,8 +2268,9 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
-hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
@@ -2485,6 +2315,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+metafile = true
+
+[[files]]
+file = "mods/gensokyo-delight-youkais-feasts.pw.toml"
+hash = "3e01cdd2624cf991ee41d11263e509aaceba2a8219a229b62d956ac6850de5d5"
 metafile = true
 
 [[files]]
@@ -2543,8 +2378,9 @@ hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
 
 [[files]]
-file = "mods/kotlinforforge-5.11.0-all.jar"
-hash = "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
 
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
@@ -2558,7 +2394,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "daae831820f5b1c8ac4618fc8c44bc6336809e9889bce7c184eaf6c7d927f14f"
+hash = "89ffd1297ebc4b0ac4773a5b9483f765c5cfe3fa034767da61129820c47de965"
 metafile = true
 
 [[files]]
@@ -2657,12 +2493,14 @@ hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
 
 [[files]]
-file = "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar"
-hash = "242267afa324352130adb2263a5667e421c6f4c573ad0dfe0565971255ea5a1e"
+file = "mods/netherportalfix.pw.toml"
+hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+metafile = true
 
 [[files]]
-file = "mods/no-void-structures-2.0.1.jar"
-hash = "e1a2fba64bc02f1cbd58ed3d408702ee1e1200403a8d8f50dff8e82ebebb9551"
+file = "mods/no-void-structures.pw.toml"
+hash = "381953b94e1187e81a1c48b72b910efee862aa3b30812c77df79dd613f97a43c"
+metafile = true
 
 [[files]]
 file = "mods/noisiumforked.pw.toml"
@@ -2700,8 +2538,9 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
-file = "mods/reap-neoforge-1.21.1-1.1.2.jar"
-hash = "3a01e641cd6e1e83148d9fdb30e1c1a1395c0ef67c0a8a807a5a37542e56fa26"
+file = "mods/reap-mod.pw.toml"
+hash = "4fb8d1b5b8ffebcb71908b530daf99b0c33a3c2ad54dcf44524338e15c33ec60"
+metafile = true
 
 [[files]]
 file = "mods/rechiseled-applied-energistics-2.pw.toml"
@@ -2769,24 +2608,29 @@ hash = "3ee552df830edc21983af39740f267599437cd98a4e37b071413a598716861a8"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar"
-hash = "a97f11ea4394cdc5d0a79bae8d319b10ffd1b5fb02d496a2d8e08227ce05136e"
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "98894c50922dfad36e4313d798d4497a61c42ce855b44fd63aea79b4990cac5d"
+metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar"
-hash = "82013eb16e2b1ab32c87f79b5e258d42d451f42e0cfb6ee9297c21c1296daeb5"
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "5d456b77b7ba6381ee745161d355843c52bdc20b0eab644bd6152dc669ae3d58"
+metafile = true
 
 [[files]]
-file = "mods/sophisticatedcore-1.21.1-1.4.29.1752.jar"
-hash = "7efcfc84a490d9ce7be9db0bedb865b8f815f5a24baed130b6983dccd6f78e3f"
+file = "mods/sophisticated-core.pw.toml"
+hash = "d34ef6a8ae4fa661524b3d93467004430e66656ba762843d915aaca6a0c23f63"
+metafile = true
 
 [[files]]
-file = "mods/sophisticatedstorage-1.21.1-1.5.44.1680.jar"
-hash = "49f714adeb0f7f9f8768cdec680c5b447eab0725a0efb3746daded3d05bd0074"
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "8f9cfa61518cb3f9a1bca32ff2a50d39bb5dc33041a34cbe292462f6cefa3069"
+metafile = true
 
 [[files]]
-file = "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar"
-hash = "c6f028fcf66cc500e26aa809b532b322f84d6acbc770b34a79359ec4ed6f4d2e"
+file = "mods/sophisticated-storage.pw.toml"
+hash = "0af154df6e7fe6999b6acc493cc55f41597de5bdd0c8b84b4c2d0ae6f343a362"
+metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
@@ -2819,12 +2663,8 @@ hash = "83dae761dae86cc140fe971ce6a8cac9bfe0f9eb39417a71666441a2bcc634a8"
 metafile = true
 
 [[files]]
-file = "mods/toastbegone-neoforge-1.21-1.2.0.jar"
-hash = "7044b77517ef2b3b664777e273ebba1464df3e6319be5f93b461dc3cec3b8210"
-
-[[files]]
 file = "mods/toastbegone.pw.toml"
-hash = "812ec88b8ea9f67879c4f66393cb1677288cb25d86cd9c7c21efa4de7085f5a1"
+hash = "a4baef234f249a012dfb922578f2f9122a75c74ddc3dca9caebdb92cbd49cfb4"
 metafile = true
 
 [[files]]
@@ -2865,10 +2705,6 @@ metafile = true
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
 metafile = true
-
-[[files]]
-file = "mods/youkaisfeasts-1.1.0.jar"
-hash = "d3e240be8b5c6cb82f4f84f858b2fc01a3681151151531142bc5a03dbf9b7fac"
 
 [[files]]
 file = "options.txt"
