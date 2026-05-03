@@ -2146,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-elemental.pw.toml"
-hash = "6b84b6eaa6f86b7c108f95b241d660980bca524192b8c6d5287c99fe3d21c56a"
+hash = "40d46dc6be5e50286a6e7fa530c2d27dab8c489611b1a541a5710d59f6a55e92"
 metafile = true
 
 [[files]]
@@ -2180,7 +2180,7 @@ hash = "fe39f46c86946a5be2b1f4b6034ece3ec87eecb8f7ca26b848e4e3bae446c6b2"
 
 [[files]]
 file = "mods/athena.pw.toml"
-hash = "a57de890d8359806497991f3136d42e21c27330d8f9b1c88661e303aaf991069"
+hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
 
 [[files]]
@@ -2262,7 +2262,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
+hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
@@ -2302,7 +2302,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-extra-gauges.pw.toml"
-hash = "d95e6392334e535403a5429904b77755b4a9716617f61618f7a4e608665764bd"
+hash = "372f992cc0bbd5120fb02e66ffa01e7cc507f92aa1aad8b6da3e46818da679e5"
 metafile = true
 
 [[files]]
@@ -2327,7 +2327,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "dc37d45184f4c9710de2f25f8a0463423105f4feb6bd8ec8433a33161e247640"
+hash = "5a5c12ae10b1bca3a6b51a4b56645cb5bdacb35b1d9c49bc79517a660c0cd51b"
 metafile = true
 
 [[files]]
@@ -2359,7 +2359,7 @@ hash = "c8976591a11cc385e8dbc270a70147a222bb42bcce7888a275df917521c3d7a4"
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "40c25efbb69e526bd84e17da231501efbdea1305adc7ab27c3601971aebb1308"
+hash = "4de7d127bbdeb77955a8c27302babdacc268a477aa2c8c63f121e11b0b5c6078"
 metafile = true
 
 [[files]]
@@ -2413,7 +2413,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "2893d96c9a898bdbcb0f6061d9b4b4f188dcf594e2c9353c4b7d6a97ea9a63c9"
+hash = "f8bff302408f68c7e3dc004cef9e9f63e9cc281defe174fcefd623d5b99f86cf"
 metafile = true
 
 [[files]]
@@ -2517,7 +2517,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "046ce02f3e29d83efeb82812d5d6848a00b032f823baf0a77481baca085d9ddc"
+hash = "1d3b922c0d1a43fa497faf27827bfa9f9f3841dfba51d8684435d58c1141fe93"
 metafile = true
 
 [[files]]
@@ -2561,7 +2561,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "651772c295e73ac60d5efd546dfa3bfa2263330cbb9db45eec9435ef8696b94b"
+hash = "31c3ae5e39797bb91e2b17a13d0fbf2cf5b5d87f586441020b12f7fd6e3c607a"
 metafile = true
 
 [[files]]
@@ -2631,7 +2631,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "67a1f2166177db175eeb9dbd8dd085c6180fbaac6669f07c2cdb9c10efe8da9a"
+hash = "a0ace741bcbe76bfa3c8bfefd042a1aee7583b32039cb48aa381a8ace956a359"
 metafile = true
 
 [[files]]
@@ -2723,7 +2723,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "b3d4cbc2e7381b91da2f2afa157c888b6d6ca655ff106a87254e408329b38980"
+hash = "6f08e2649754ba9363a07480e2c2937f81dbf2452b66ea622a4ad93cb2bf1e06"
 metafile = true
 
 [[files]]
@@ -2743,7 +2743,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
+hash = "2542119f36f9da97055af35664aff60923772866a4a63b617836b2a0a74ea12b"
 metafile = true
 
 [[files]]
@@ -2832,7 +2832,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilitarian.pw.toml"
-hash = "308a7ca1371a5a3903940198a191cdb63b2ae9eb9776c4a0448b42af12c5af8d"
+hash = "273085ae95f4c7f12c96b54a25c385220b88172a1ccf85ae95c5765b049c06bc"
 metafile = true
 
 [[files]]
