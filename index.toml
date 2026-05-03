@@ -85,6 +85,10 @@ file = "config/youkaisfeasts-server.toml"
 hash = "5d4173bcfb03bf18088e7e983ecdfefe0636621aa7f1bac95d2571dcd2fbf8db"
 
 [[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "ddaa1c8403291a140962a3a1643baa34572b6c082fd953b30a7d94eb9742babe"
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
 metafile = true
