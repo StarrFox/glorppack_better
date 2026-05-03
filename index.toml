@@ -2198,10 +2198,6 @@ hash = "8314d22876d3edccef2f2780a27ef63ed35fe3f761f537eeb215795e5edc053b"
 metafile = true
 
 [[files]]
-file = "mods/blockentities-[NEOFORGED]-1.21.1+1.1.0.jar"
-hash = "dc6a476bff3267f97e551f2f83a6924de710949ba4d31c77a98b92cb542f2103"
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
@@ -2394,7 +2390,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-plus-plus.pw.toml"
-hash = "2c7239ca637747c8f69ecdd7fdf997752c6545adbab409971da9dbfc177da588"
+hash = "a085e38f78e9625c9b0db1d962542b5081ed0f4fd00de87a3baf1a08958310e2"
 metafile = true
 
 [[files]]
@@ -2532,7 +2528,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "eabec45f6c8f35ff4348d5730339cf021ff81ccd74c8c19d61cd0c0862245039"
+hash = "4136ea7f17b6191b3b969e86249fb2da4c1771d608e3a6e3ad21df76501a4ee9"
 metafile = true
 
 [[files]]
